@@ -6,3 +6,7 @@ D:\Github\TheImageWorld\TheImageWorld\Data\obj\Debug\netcoreapp3.1\Data.Assembly
 D:\Github\TheImageWorld\TheImageWorld\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
 D:\Github\TheImageWorld\TheImageWorld\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
 D:\Github\TheImageWorld\TheImageWorld\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+D:\Github\TheImageWorld\TheImageWorld\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\Github\TheImageWorld\TheImageWorld\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\Github\TheImageWorld\TheImageWorld\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\Github\TheImageWorld\TheImageWorld\Data\obj\Debug\netcoreapp3.1\Data.pdb
