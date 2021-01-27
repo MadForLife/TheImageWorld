@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Microsoft.AspNetCore.Identity;
 
 namespace Data.Entities
@@ -15,5 +16,9 @@ namespace Data.Entities
             get { return this.timeStamp.HasValue ? this.timeStamp.Value : DateTime.Now; }
             set { this.timeStamp = value; }
         }
+        public virtual ICollection<Photo> Photos { get; set; }
+        public virtual ICollection<Like> Likes { get; set; }
+        public virtual ICollection<Comment> Comments { get; set; }
+        public virtual ICollection<Following> Followings { get; set; }
     }
 }
