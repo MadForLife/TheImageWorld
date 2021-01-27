@@ -1,0 +1,8 @@
+D:\Github\TheImageWorld\TheImageWorld\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\Github\TheImageWorld\TheImageWorld\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\Github\TheImageWorld\TheImageWorld\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+D:\Github\TheImageWorld\TheImageWorld\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\Github\TheImageWorld\TheImageWorld\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\Github\TheImageWorld\TheImageWorld\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+D:\Github\TheImageWorld\TheImageWorld\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+D:\Github\TheImageWorld\TheImageWorld\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
